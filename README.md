@@ -1,3 +1,3 @@
 # scripts
 
-I am a total noob. Come break things.
+noobtastic and breaking things.
